@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<product type="feature">
+		<pname>Apple In-Ear Headphones</pname>
+		<merchantname>Win</merchantname>
+		<companyname>Point-Star</companyname>
+		<regno>Reg. No: XWZ/123/09</regno>
+		<address>Daan Mogot No.3 Blok I Jakarta Barat 15417 Indonesia</address>
+		<contact>
+			<phone>(021)5639991</phone>
+			<email>merhant@plasa.com</email>
+		</contact>
+		<nowprice>1200000</nowprice>
+		<nowcurrency>Rp</nowcurrency>
+		<previousprice>1500000</previousprice>
+		<previouscurrency>Rp</previouscurrency>
+		<mallpcode>1200000</mallpcode>
+		<merchantpcode>MYR</merchantpcode>
+		<sizeinfo>117.5 x 63.5 x 12.85 mm</sizeinfo>
+		<largeimage>http://www.pbbemall.com/mall/ctImage.jsp?fwbAction=View&type=product&img_view_type=1&id=8964</largeimage>
+		<smallimage>http://www.pbbemall.com/mall/ctImage.jsp?fwbAction=View&type=product&img_view_type=1&id=8964</smallimage>
+		<thumbnail>http://www.pbbemall.com/mall/ctImage.jsp?fwbAction=View&type=product&img_view_type=1&id=8964</thumbnail>
+		<others>
+			It is just like description for other attributes.
+		<others>
+		<description>
+			The Acer F900 gives total control over web browsing on the go. With a 3.8-inch WVGA touch screen and new easy-to-use touch keyboard, the F900 is able to display more information on screen while offering an excellent mobile browsing experience. The new user interface makes navigating through the device a pleasure. The F900 is the perfect solution for stylish Internet connectivity anywhere. High performance style - Add freedom to your life. Acer F900 lets you browse and interact with the web as easily as you do in your office or at home. Style meets simplicity - The style of a large 3.8 WVGA touch screen, with an easy to use virtual keyboard and a widget-based home screen; the simplicity of browsing the web and interacting online anytime, anywhere as if from your office or home.
+		</description>		
+
+	</product>
+</products>

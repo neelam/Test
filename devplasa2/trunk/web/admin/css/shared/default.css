@@ -1,0 +1,52 @@
+/* == default css == */
+
+body { margin: auto; font-size: 12px; font-family: Arial; color:#3c2415; background: url(../../../../images/frontend/plasa-bg.gif) repeat-x; }
+
+a { text-decoration: none; color:#c01f25; font-weight: bold; }
+a:hover { text-decoration: underline; color:#7c191c; font-weight: bold; }
+
+.clear { clear: both; }
+
+img { border: none; }
+
+p { padding: 5px 0; margin: 0; }
+
+h1, h2, h3, h4 { margin: 0; letter-spacing: -0.1em; padding:5px 0; }
+
+h1 { font-size: 24px; }
+h2 { font-size: 18px; }
+h3 { font-size: 16px; }
+h4 { font-size: 14px; }
+
+/* == placement == */
+
+#page { margin: auto; width:940px; clear: both; }
+
+#top { width: 940px; background-color: #FFF; height: 23px; padding: 7px 0 0;  }
+.top-link { float: right; }
+.top-link ul { padding:0; margin:0; display:inline; }
+.top-link li { padding:0 0 0 10px; margin:0; list-style:none;  float: left; }
+	
+#header { width: 940px;  clear: both; }
+.header-row1 { clear: both; overflow: hidden; } /* logo and login */
+.logo { float: left; width: 118px; }
+.login-area { float: left; width: 406px; margin-left: 416px; }
+
+.login-box { background-color: #f8a959; border-left: 1px solid #f9b97a; border-bottom: 1px solid #f9b97a;border-right: 1px solid #f9b97a; width: 378px; overflow: hidden; clear: both; padding: 5px 13px; color:#fff;}
+.login-box ul { display: inline; padding: 0; margin: 0; }
+.login-box li { padding: 0 10px 0; margin: 0; float: left; list-style: none;}
+
+.header-row2 { clear: both; overflow: hidden; } /* navigation and member signup */
+.navi { } /* continue to navi.css */
+.signup-area { float: right;}
+
+.header-row3 { clear: both; overflow: hidden; } /* search engine */
+.search-area { background-color: #c01f25; height: 57px; padding: 10px 15px 0; }
+.search-form ul { display: inline; padding: 0; margin: 0; }
+.search-form li { list-style: none; padding: 0 10px 0 0; margin: 0; float: left; }
+
+/* == search form input area ==*/
+.search-inputarea { width: 734px; border-top:1px solid #999999; border-left: 1px solid #e1e1e1; border-right: none; border-bottom: none; font-size: 18px; padding: 5px; height:29px;  }
+
+#content { width: 940px; clear: both; overflow: hidden; }
+

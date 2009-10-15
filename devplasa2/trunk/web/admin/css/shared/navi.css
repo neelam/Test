@@ -1,0 +1,12 @@
+/* == main navigation == */
+.navi { width: 438px; background-color:#f68a35; height:35px; float: left; }
+	
+	.navi ul { font:11px Arial; list-style: none; padding:0; margin:0; }
+	
+	.navi li { display: inline; margin: 0; padding: 0; }
+	
+	.navi a { float: left; display: block; color: #fff; margin: 0px 1px 0px 0px; padding: 13px 0 0; text-decoration: none; font-size:11px; text-transform: uppercase; background-color: #d1792e; font-weight: normal; width: 145px; height: 22px; text-align: center; }
+	
+	.navi a:hover { background-color:#e77c31; color:#FFF; }
+	
+	.navi #current a { background-color:#c01f25;  color:#FFF; }

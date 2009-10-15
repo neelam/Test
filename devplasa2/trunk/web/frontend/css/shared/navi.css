@@ -1,0 +1,5 @@
+.mainmenu { float: left; font-size: 14px; font-weight: bold; letter-spacing: -0.1em; width: 446px; }
+
+.mainmenu a { color:#fff; text-shadow: 0px 1px 1px #cbaa22; text-decoration: none; }
+.mainmenu ul { display: inline; padding: 0; margin: 0; }
+.mainmenu li { padding: 12px 21px; margin: 0; float: left; list-style: none; border-right: 1px solid #fddc87; }
